@@ -1,0 +1,13 @@
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\obj\Debug\BattleBeet.csprojResolveAssemblyReference.cache
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\obj\Debug\BattleBeet.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\BattleBeet.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\BattleBeet.pdb
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\Assembly-CSharp.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\UnityEngine.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\UnityEngine.UI.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\bin\Debug\Boo.Lang.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\obj\Debug\BattleBeet.dll
+C:\Users\Keenan\Source\Repos\BattleBeet\BattleBeet\obj\Debug\BattleBeet.pdb
